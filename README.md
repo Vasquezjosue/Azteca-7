@@ -1,0 +1,2 @@
+# Azteca-7
+http://cdn88.telerium.online:2052/live-2/375/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDI0IDQ6NDk6MDYgUE0maGFzaF92YWx1ZT1iM2lsbmlaRHVnUUZYRE5jT0tTYkR3PT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==&amp;1
