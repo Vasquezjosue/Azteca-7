@@ -1,2 +1,5 @@
 # Azteca-7
 http://cdn88.telerium.online:2052/live-2/375/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDI0IDQ6NDk6MDYgUE0maGFzaF92YWx1ZT1iM2lsbmlaRHVnUUZYRE5jT0tTYkR3PT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==&amp;1
+
+#SPACE
+http://e10.telerium.link:2052/free10/074/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDI0IDU6NTc6MTUgUE0maGFzaF92YWx1ZT0yTkZJOGZKOHdJLzVZclBEbmxQVjlRPT0mdmFsaWRtaW51dGVzPTI0MA==
